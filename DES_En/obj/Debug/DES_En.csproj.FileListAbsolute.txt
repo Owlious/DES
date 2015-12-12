@@ -1,0 +1,9 @@
+F:\课程设计\DES_En\DES_En\bin\Debug\DES_En.exe.config
+F:\课程设计\DES_En\DES_En\bin\Debug\DES_En.exe
+F:\课程设计\DES_En\DES_En\bin\Debug\DES_En.pdb
+F:\课程设计\DES_En\DES_En\obj\Debug\DES_En.csprojResolveAssemblyReference.cache
+F:\课程设计\DES_En\DES_En\obj\Debug\DES_En.Form1.resources
+F:\课程设计\DES_En\DES_En\obj\Debug\DES_En.Properties.Resources.resources
+F:\课程设计\DES_En\DES_En\obj\Debug\DES_En.csproj.GenerateResource.Cache
+F:\课程设计\DES_En\DES_En\obj\Debug\DES_En.exe
+F:\课程设计\DES_En\DES_En\obj\Debug\DES_En.pdb
